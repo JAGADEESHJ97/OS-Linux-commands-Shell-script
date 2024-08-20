@@ -42,6 +42,7 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
+![Screenshot 2024-08-20 080728](https://github.com/user-attachments/assets/fff3f591-76af-4b4b-857a-eb534359f77c)
 
 
 
